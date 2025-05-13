@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\FastMsg.Console\\FastMsg.ConsoleServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\FastMsg.ConsoleClient\\FastMsg.ConsoleClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
